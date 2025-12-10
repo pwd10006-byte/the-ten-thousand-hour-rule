@@ -1,2 +1,3 @@
-# the-ten-thousand-hour-rule
+# 더 텐 따우즈 아우얼 룰
 1차 개인 프로젝트 - 일만 시간의 법칙
+
